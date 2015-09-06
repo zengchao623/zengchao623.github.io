@@ -1,2 +1,4 @@
 body{background-color:#fff;}
 .navbar-brand.logo{color:#fff;}
+.pageContent{min-height:450px;}
+.jumbotron{background:url(../images/banner/1.jpg) no-repeat;}
